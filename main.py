@@ -1,0 +1,2 @@
+## Init
+print("Hello music")
